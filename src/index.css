@@ -1,5 +1,12 @@
+@font-face {
+  font-family: "OptimusPrinceps";
+  src: url("resources/fonts/OptimusPrincepsSemiBold.ttf");
+}
+
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  overflow: none;
+  background-color: #121212;
 }
